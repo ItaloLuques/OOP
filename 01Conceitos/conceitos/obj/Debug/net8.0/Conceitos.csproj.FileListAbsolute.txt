@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ESTUDO\OOP\01Conceitos\Conceitos\bin\Debug\net8.0\Conceitos.exe
+C:\Users\User\Desktop\ESTUDO\OOP\01Conceitos\Conceitos\bin\Debug\net8.0\Conceitos.deps.json
+C:\Users\User\Desktop\ESTUDO\OOP\01Conceitos\Conceitos\bin\Debug\net8.0\Conceitos.runtimeconfig.json
+C:\Users\User\Desktop\ESTUDO\OOP\01Conceitos\Conceitos\bin\Debug\net8.0\Conceitos.dll
+C:\Users\User\Desktop\ESTUDO\OOP\01Conceitos\Conceitos\bin\Debug\net8.0\Conceitos.pdb
+C:\Users\User\Desktop\ESTUDO\OOP\01Conceitos\Conceitos\obj\Debug\net8.0\Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ESTUDO\OOP\01Conceitos\Conceitos\obj\Debug\net8.0\Conceitos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ESTUDO\OOP\01Conceitos\Conceitos\obj\Debug\net8.0\Conceitos.AssemblyInfo.cs
+C:\Users\User\Desktop\ESTUDO\OOP\01Conceitos\Conceitos\obj\Debug\net8.0\Conceitos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ESTUDO\OOP\01Conceitos\Conceitos\obj\Debug\net8.0\Conceitos.dll
+C:\Users\User\Desktop\ESTUDO\OOP\01Conceitos\Conceitos\obj\Debug\net8.0\refint\Conceitos.dll
+C:\Users\User\Desktop\ESTUDO\OOP\01Conceitos\Conceitos\obj\Debug\net8.0\Conceitos.pdb
+C:\Users\User\Desktop\ESTUDO\OOP\01Conceitos\Conceitos\obj\Debug\net8.0\Conceitos.genruntimeconfig.cache
+C:\Users\User\Desktop\ESTUDO\OOP\01Conceitos\Conceitos\obj\Debug\net8.0\ref\Conceitos.dll

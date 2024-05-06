@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ESTUDO\OOP\02Metodos\mmeto\obj\Debug\net8.0\mmeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ESTUDO\OOP\02Metodos\mmeto\obj\Debug\net8.0\mmeto.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ESTUDO\OOP\02Metodos\mmeto\obj\Debug\net8.0\mmeto.AssemblyInfo.cs
+C:\Users\User\Desktop\ESTUDO\OOP\02Metodos\mmeto\obj\Debug\net8.0\mmeto.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ESTUDO\OOP\02Metodos\mmeto\bin\Debug\net8.0\mmeto.exe
+C:\Users\User\Desktop\ESTUDO\OOP\02Metodos\mmeto\bin\Debug\net8.0\mmeto.deps.json
+C:\Users\User\Desktop\ESTUDO\OOP\02Metodos\mmeto\bin\Debug\net8.0\mmeto.runtimeconfig.json
+C:\Users\User\Desktop\ESTUDO\OOP\02Metodos\mmeto\bin\Debug\net8.0\mmeto.dll
+C:\Users\User\Desktop\ESTUDO\OOP\02Metodos\mmeto\bin\Debug\net8.0\mmeto.pdb
+C:\Users\User\Desktop\ESTUDO\OOP\02Metodos\mmeto\obj\Debug\net8.0\mmeto.dll
+C:\Users\User\Desktop\ESTUDO\OOP\02Metodos\mmeto\obj\Debug\net8.0\refint\mmeto.dll
+C:\Users\User\Desktop\ESTUDO\OOP\02Metodos\mmeto\obj\Debug\net8.0\mmeto.pdb
+C:\Users\User\Desktop\ESTUDO\OOP\02Metodos\mmeto\obj\Debug\net8.0\mmeto.genruntimeconfig.cache
+C:\Users\User\Desktop\ESTUDO\OOP\02Metodos\mmeto\obj\Debug\net8.0\ref\mmeto.dll

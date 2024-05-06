@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ESTUDO\OOP\06Encapsulamento\Encap\obj\Debug\net8.0\Encap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ESTUDO\OOP\06Encapsulamento\Encap\obj\Debug\net8.0\Encap.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ESTUDO\OOP\06Encapsulamento\Encap\obj\Debug\net8.0\Encap.AssemblyInfo.cs
+C:\Users\User\Desktop\ESTUDO\OOP\06Encapsulamento\Encap\obj\Debug\net8.0\Encap.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ESTUDO\OOP\06Encapsulamento\Encap\bin\Debug\net8.0\Encap.exe
+C:\Users\User\Desktop\ESTUDO\OOP\06Encapsulamento\Encap\bin\Debug\net8.0\Encap.deps.json
+C:\Users\User\Desktop\ESTUDO\OOP\06Encapsulamento\Encap\bin\Debug\net8.0\Encap.runtimeconfig.json
+C:\Users\User\Desktop\ESTUDO\OOP\06Encapsulamento\Encap\bin\Debug\net8.0\Encap.dll
+C:\Users\User\Desktop\ESTUDO\OOP\06Encapsulamento\Encap\bin\Debug\net8.0\Encap.pdb
+C:\Users\User\Desktop\ESTUDO\OOP\06Encapsulamento\Encap\obj\Debug\net8.0\Encap.dll
+C:\Users\User\Desktop\ESTUDO\OOP\06Encapsulamento\Encap\obj\Debug\net8.0\refint\Encap.dll
+C:\Users\User\Desktop\ESTUDO\OOP\06Encapsulamento\Encap\obj\Debug\net8.0\Encap.pdb
+C:\Users\User\Desktop\ESTUDO\OOP\06Encapsulamento\Encap\obj\Debug\net8.0\Encap.genruntimeconfig.cache
+C:\Users\User\Desktop\ESTUDO\OOP\06Encapsulamento\Encap\obj\Debug\net8.0\ref\Encap.dll

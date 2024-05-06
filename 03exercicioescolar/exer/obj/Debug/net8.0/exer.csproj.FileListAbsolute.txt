@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\ESTUDO\OOP\03exercicioescolar\exer\obj\Debug\net8.0\exer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ESTUDO\OOP\03exercicioescolar\exer\obj\Debug\net8.0\exer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ESTUDO\OOP\03exercicioescolar\exer\obj\Debug\net8.0\exer.AssemblyInfo.cs
+C:\Users\User\Desktop\ESTUDO\OOP\03exercicioescolar\exer\obj\Debug\net8.0\exer.csproj.CoreCompileInputs.cache
