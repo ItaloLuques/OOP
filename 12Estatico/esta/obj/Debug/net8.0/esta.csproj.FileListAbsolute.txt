@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\ESTUDO\OOP\12estatico\esta\obj\Debug\net8.0\esta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ESTUDO\OOP\12estatico\esta\obj\Debug\net8.0\esta.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ESTUDO\OOP\12estatico\esta\obj\Debug\net8.0\esta.AssemblyInfo.cs
+C:\Users\User\Desktop\ESTUDO\OOP\12estatico\esta\obj\Debug\net8.0\esta.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ESTUDO\OOP\12estatico\esta\obj\Debug\net8.0\esta.sourcelink.json
+C:\Users\User\Desktop\ESTUDO\OOP\12estatico\esta\bin\Debug\net8.0\esta.exe
+C:\Users\User\Desktop\ESTUDO\OOP\12estatico\esta\bin\Debug\net8.0\esta.deps.json
+C:\Users\User\Desktop\ESTUDO\OOP\12estatico\esta\bin\Debug\net8.0\esta.runtimeconfig.json
+C:\Users\User\Desktop\ESTUDO\OOP\12estatico\esta\bin\Debug\net8.0\esta.dll
+C:\Users\User\Desktop\ESTUDO\OOP\12estatico\esta\bin\Debug\net8.0\esta.pdb
+C:\Users\User\Desktop\ESTUDO\OOP\12estatico\esta\obj\Debug\net8.0\esta.dll
+C:\Users\User\Desktop\ESTUDO\OOP\12estatico\esta\obj\Debug\net8.0\refint\esta.dll
+C:\Users\User\Desktop\ESTUDO\OOP\12estatico\esta\obj\Debug\net8.0\esta.pdb
+C:\Users\User\Desktop\ESTUDO\OOP\12estatico\esta\obj\Debug\net8.0\esta.genruntimeconfig.cache
+C:\Users\User\Desktop\ESTUDO\OOP\12estatico\esta\obj\Debug\net8.0\ref\esta.dll

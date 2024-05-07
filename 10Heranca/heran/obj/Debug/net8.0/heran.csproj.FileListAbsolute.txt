@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\ESTUDO\OOP\10heranca\heran\bin\Debug\net8.0\heran.exe
+C:\Users\User\Desktop\ESTUDO\OOP\10heranca\heran\bin\Debug\net8.0\heran.deps.json
+C:\Users\User\Desktop\ESTUDO\OOP\10heranca\heran\bin\Debug\net8.0\heran.runtimeconfig.json
+C:\Users\User\Desktop\ESTUDO\OOP\10heranca\heran\bin\Debug\net8.0\heran.dll
+C:\Users\User\Desktop\ESTUDO\OOP\10heranca\heran\bin\Debug\net8.0\heran.pdb
+C:\Users\User\Desktop\ESTUDO\OOP\10heranca\heran\obj\Debug\net8.0\heran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ESTUDO\OOP\10heranca\heran\obj\Debug\net8.0\heran.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ESTUDO\OOP\10heranca\heran\obj\Debug\net8.0\heran.AssemblyInfo.cs
+C:\Users\User\Desktop\ESTUDO\OOP\10heranca\heran\obj\Debug\net8.0\heran.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ESTUDO\OOP\10heranca\heran\obj\Debug\net8.0\heran.sourcelink.json
+C:\Users\User\Desktop\ESTUDO\OOP\10heranca\heran\obj\Debug\net8.0\heran.dll
+C:\Users\User\Desktop\ESTUDO\OOP\10heranca\heran\obj\Debug\net8.0\refint\heran.dll
+C:\Users\User\Desktop\ESTUDO\OOP\10heranca\heran\obj\Debug\net8.0\heran.pdb
+C:\Users\User\Desktop\ESTUDO\OOP\10heranca\heran\obj\Debug\net8.0\heran.genruntimeconfig.cache
+C:\Users\User\Desktop\ESTUDO\OOP\10heranca\heran\obj\Debug\net8.0\ref\heran.dll

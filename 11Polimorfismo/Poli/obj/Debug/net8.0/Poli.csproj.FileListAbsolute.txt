@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\ESTUDO\OOP\11polimorfismo\Poli\bin\Debug\net8.0\Poli.exe
+C:\Users\User\Desktop\ESTUDO\OOP\11polimorfismo\Poli\bin\Debug\net8.0\Poli.deps.json
+C:\Users\User\Desktop\ESTUDO\OOP\11polimorfismo\Poli\bin\Debug\net8.0\Poli.runtimeconfig.json
+C:\Users\User\Desktop\ESTUDO\OOP\11polimorfismo\Poli\bin\Debug\net8.0\Poli.dll
+C:\Users\User\Desktop\ESTUDO\OOP\11polimorfismo\Poli\bin\Debug\net8.0\Poli.pdb
+C:\Users\User\Desktop\ESTUDO\OOP\11polimorfismo\Poli\obj\Debug\net8.0\Poli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ESTUDO\OOP\11polimorfismo\Poli\obj\Debug\net8.0\Poli.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ESTUDO\OOP\11polimorfismo\Poli\obj\Debug\net8.0\Poli.AssemblyInfo.cs
+C:\Users\User\Desktop\ESTUDO\OOP\11polimorfismo\Poli\obj\Debug\net8.0\Poli.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ESTUDO\OOP\11polimorfismo\Poli\obj\Debug\net8.0\Poli.sourcelink.json
+C:\Users\User\Desktop\ESTUDO\OOP\11polimorfismo\Poli\obj\Debug\net8.0\Poli.dll
+C:\Users\User\Desktop\ESTUDO\OOP\11polimorfismo\Poli\obj\Debug\net8.0\refint\Poli.dll
+C:\Users\User\Desktop\ESTUDO\OOP\11polimorfismo\Poli\obj\Debug\net8.0\Poli.pdb
+C:\Users\User\Desktop\ESTUDO\OOP\11polimorfismo\Poli\obj\Debug\net8.0\Poli.genruntimeconfig.cache
+C:\Users\User\Desktop\ESTUDO\OOP\11polimorfismo\Poli\obj\Debug\net8.0\ref\Poli.dll

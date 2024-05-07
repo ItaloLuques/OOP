@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\ESTUDO\OOP\14interface\inter\obj\Debug\net8.0\inter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ESTUDO\OOP\14interface\inter\obj\Debug\net8.0\inter.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ESTUDO\OOP\14interface\inter\obj\Debug\net8.0\inter.AssemblyInfo.cs
+C:\Users\User\Desktop\ESTUDO\OOP\14interface\inter\obj\Debug\net8.0\inter.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ESTUDO\OOP\14interface\inter\obj\Debug\net8.0\inter.sourcelink.json
+C:\Users\User\Desktop\ESTUDO\OOP\14interface\inter\bin\Debug\net8.0\inter.exe
+C:\Users\User\Desktop\ESTUDO\OOP\14interface\inter\bin\Debug\net8.0\inter.deps.json
+C:\Users\User\Desktop\ESTUDO\OOP\14interface\inter\bin\Debug\net8.0\inter.runtimeconfig.json
+C:\Users\User\Desktop\ESTUDO\OOP\14interface\inter\bin\Debug\net8.0\inter.dll
+C:\Users\User\Desktop\ESTUDO\OOP\14interface\inter\bin\Debug\net8.0\inter.pdb
+C:\Users\User\Desktop\ESTUDO\OOP\14interface\inter\obj\Debug\net8.0\inter.dll
+C:\Users\User\Desktop\ESTUDO\OOP\14interface\inter\obj\Debug\net8.0\refint\inter.dll
+C:\Users\User\Desktop\ESTUDO\OOP\14interface\inter\obj\Debug\net8.0\inter.pdb
+C:\Users\User\Desktop\ESTUDO\OOP\14interface\inter\obj\Debug\net8.0\inter.genruntimeconfig.cache
+C:\Users\User\Desktop\ESTUDO\OOP\14interface\inter\obj\Debug\net8.0\ref\inter.dll

@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\ESTUDO\OOP\08Getset\getset\bin\Debug\net8.0\getset.exe
+C:\Users\User\Desktop\ESTUDO\OOP\08Getset\getset\bin\Debug\net8.0\getset.deps.json
+C:\Users\User\Desktop\ESTUDO\OOP\08Getset\getset\bin\Debug\net8.0\getset.runtimeconfig.json
+C:\Users\User\Desktop\ESTUDO\OOP\08Getset\getset\bin\Debug\net8.0\getset.dll
+C:\Users\User\Desktop\ESTUDO\OOP\08Getset\getset\bin\Debug\net8.0\getset.pdb
+C:\Users\User\Desktop\ESTUDO\OOP\08Getset\getset\obj\Debug\net8.0\getset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ESTUDO\OOP\08Getset\getset\obj\Debug\net8.0\getset.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ESTUDO\OOP\08Getset\getset\obj\Debug\net8.0\getset.AssemblyInfo.cs
+C:\Users\User\Desktop\ESTUDO\OOP\08Getset\getset\obj\Debug\net8.0\getset.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ESTUDO\OOP\08Getset\getset\obj\Debug\net8.0\getset.sourcelink.json
+C:\Users\User\Desktop\ESTUDO\OOP\08Getset\getset\obj\Debug\net8.0\getset.dll
+C:\Users\User\Desktop\ESTUDO\OOP\08Getset\getset\obj\Debug\net8.0\refint\getset.dll
+C:\Users\User\Desktop\ESTUDO\OOP\08Getset\getset\obj\Debug\net8.0\getset.pdb
+C:\Users\User\Desktop\ESTUDO\OOP\08Getset\getset\obj\Debug\net8.0\getset.genruntimeconfig.cache
+C:\Users\User\Desktop\ESTUDO\OOP\08Getset\getset\obj\Debug\net8.0\ref\getset.dll

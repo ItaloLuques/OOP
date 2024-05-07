@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\ESTUDO\OOP\13abstracao\abs\obj\Debug\net8.0\Abs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ESTUDO\OOP\13abstracao\abs\obj\Debug\net8.0\Abs.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ESTUDO\OOP\13abstracao\abs\obj\Debug\net8.0\Abs.AssemblyInfo.cs
+C:\Users\User\Desktop\ESTUDO\OOP\13abstracao\abs\obj\Debug\net8.0\Abs.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ESTUDO\OOP\13abstracao\abs\obj\Debug\net8.0\Abs.sourcelink.json
